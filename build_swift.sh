@@ -1,0 +1,1 @@
+cd swift-module && swift build -v && swift test -v
